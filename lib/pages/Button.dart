@@ -127,7 +127,7 @@ class ButtonPage extends StatelessWidget {
                   ],
                 )
               ],
-            )
+            ),
           ],
         ));
   }
